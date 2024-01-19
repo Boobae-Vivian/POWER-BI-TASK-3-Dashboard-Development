@@ -96,7 +96,7 @@ By effectively combining these skills and concepts, the task aims to create a co
 
 OUTPUT
 :-------------------:
-![](POWERBITASK3.png)
+![](power3.png)
 
 ## CONCLUSION
 
