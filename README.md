@@ -57,11 +57,18 @@ By effectively combining these skills and concepts, the task aims to create a co
 
     Under the general option, use the title option to provide a suitable name for each card visual, which will appear above the figures. Apply a dark-brown background color to each visual card, while setting the title names to a yellow color with a dark-blue background. It's important to note that visual cards are specifically used for single aggregate values.
 
-
-    
 -  Analyze campaign count based on marital status:
+  
+   To analyze the campaign count based on marital status, begin by selecting the column chart from the visualization pane to appear on the canvas. Drag the campaign column from the data pane into the value fields in the visualization pane under the y-axis, and drag the marital status column to the x-axis. The resulting graphical representation on the column chart displays the campaign count for married (27,000), single (13,000), and divorced (5,000).
+   
+   To enhance clarity, certain distracting elements such as gridlines and unnecessary labels were removed. This was achieved by utilizing the format page option in the visualization pane. The graphical representation was given a dark-brown background, and its title was styled with a yellow color and a dark-blue background, maintaining a simple and clean design.
 
-  T
+
+
+
+
+
+
 
 
 
