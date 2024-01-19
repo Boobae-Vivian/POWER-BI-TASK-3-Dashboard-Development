@@ -44,8 +44,24 @@ By effectively combining these skills and concepts, the task aims to create a co
 
 ## STEPS ON HOW TO DEVELOPE THE 'BANK TERM DEPOSIT SUBSRIPTION' DASHBOARD
 
-- Bring in the 'Bank Term Deposit Subscription' dataset into power bi desktop following due steps already documented in my work "power bi task 1: data integration" [Click Here to view](https://github.com/Boobae-Vivian/POWER-BI-TASK-1-Dataset-Integration)
-- The imported dataset is an already cleaned dataset and has no need for data cleaning and transformation but i have a work on data cleaning and transformation [Click To View](
+- Import the 'Bank Term Deposit Subscription' dataset into Power BI Desktop by following the documented steps in my work titled "Power BI Task 1: Data Integration" [Click Here to view](https://github.com/Boobae-Vivian/POWER-BI-TASK-1-Dataset-Integration). Please be aware that the dataset imported has already been cleaned, and there is no need for additional data cleaning or transformation. However, I have conducted a separate task on data cleaning using an employee CSV dataset, as outlined in my work on data cleaning and transformation in Power BI Task 2.[Click To View](https://github.com/Boobae-Vivian/POWER-BI-TASK-2-Data-Cleaning)
+- To enhance the visual appeal of the dashboard, begin by editing the canvas background. Access the visualization pane, click on the format page icon, and select the canvas background option. Set the background color to black for an enhanced visual effect.
+- Before selecting visuals for the report canvas and dragging fields from the datapane into the visualization pane, customize the dashboard's title. Insert a textbox and write a suitable name, such as "BANK FULL DISTRIBUTION DASHBOARD." Further refine the title by editing it in a way that enhances its suitability for a dashboard. In my case, I added shapes to make the name stand out, giving the shapes a yellow background. These adjustments can be made in the format page section found in the visualization pane.
+- Create two Key Performance Indicators (KPIs) for the dashboard:
+  - Total balance
+  - Total campaign
+
+    To display these KPIs, select the visual card from the visualization pane and drag the balance and campaign columns individually from the data pane into the values field in the visualization pane for aggregation, resulting in a total balance of 62 million and a total campaign of 125 thousand. The results will now be visible on the visual cards in the canvas page.
+
+    Adjust the size of the card visuals on the canvas and further customize them by clicking on each card. Navigate to the visualization pane, click on format page, and access the visual and general options. Under the visual option, use the call-out value to make the figures bold, increase the font size, and utilize the category label option to turn off the name appearing below the figures in the card.
+
+    Under the general option, use the title option to provide a suitable name for each card visual, which will appear above the figures. Apply a dark-brown background color to each visual card, while setting the title names to a yellow color with a dark-blue background. It's important to note that visual cards are specifically used for single aggregate values.
+
+
+    
+-  Analyze campaign count based on marital status:
+
+  T
 
 
 
