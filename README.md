@@ -68,7 +68,7 @@ By effectively combining these skills and concepts, the task aims to create a co
 - 3. Categorize total balance by month:
      ---
 
-     To group the total balance by month, begin by choosing the line chart from the visualization pane, placing it on the canvas. Drag the balance column from the data pane into the y-axis, and drag the month column to the x-axis. The resulting graphical representation on the line chart depicts May as the month with the highest total balance at 14.2 million and December with the lowest total balance at 0.5 million.
+     To group the total balance by month, begin by choosing the line chart from the visualization pane, placing it on the canvas. Drag the balance column from the data pane into the y-axis, and drag the month column to the x-axis. The resulting graphical representation on the line chart depicts May as the month with the highest total balance of 14.2 million and December with the lowest total balance of 0.5 million.
 
       To enhance clarity, certain distracting elements like gridlines and unnecessary labels were eliminated using the format page option in the visualization pane. The graphical representation was assigned a dark-brown background and its title was stylized with a yellow color against a dark-blue background, maintaining a simple and clean design.
 
