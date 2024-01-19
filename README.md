@@ -44,7 +44,8 @@ By effectively combining these skills and concepts, the task aims to create a co
 
 ## STEPS ON HOW TO DEVELOPE THE 'BANK TERM DEPOSIT SUBSRIPTION' DASHBOARD
 
-- Bring in the 'Bank Term Deposit Subscription' dataset into power bi desktop following due steps already documented in my work "power bi task 1: data integration" [Click Here to view]()
+- Bring in the 'Bank Term Deposit Subscription' dataset into power bi desktop following due steps already documented in my work "power bi task 1: data integration" [Click Here to view](https://github.com/Boobae-Vivian/POWER-BI-TASK-1-Dataset-Integration)
+- The imported dataset is an already cleaned dataset and has no need for data cleaning and transformation but i have a work on data cleaning and transformation [Click To View](
 
 
 
